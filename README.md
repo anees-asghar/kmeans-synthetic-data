@@ -1,2 +1,2 @@
 # kmeans-synthetic-data
-This notebook demonstrates the implementation from scratch of the K-Means clustering algorithm.
+This notebook demonstrates the implementation of the K-Means clustering algorithm from scratch.
